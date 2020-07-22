@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
- my_hash = {ramen}
+ my_hash = {:ramen => "shin"}
 end
 
 def pioneer
